@@ -1,4 +1,4 @@
-### Lee Jae Hun GitHub 👋
+### Lee Jae Hoon GitHub 👋
 ## web/react
 
 
