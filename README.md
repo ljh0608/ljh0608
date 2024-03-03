@@ -3,6 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=Jae%20Hoon%20Lee%20✨&fontSize=65)
 
   ### 👩‍💻 **About Me** 
+  <a href="https://lapis-margin-2db.notion.site/bbb656b4cc3e4309aebafdea859dc451?pvs=4"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;
   <a href="https://github.com/ljh0608"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;
   <a href="https://anstrengung-jh.tistory.com"><img alt="Tistary" src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>&nbsp;
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fljh0608%2Fhit-counter&count_bg=%23000000&title_bg=%23FF7E7E&icon=&icon_color=%238C8C8C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)&nbsp;
