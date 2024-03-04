@@ -21,11 +21,11 @@
  <!-- <img width="258" src="https://blog.kakaocdn.net/dn/cfe1G4/btry8h82ZYe/hSLWr3lKQucjkHEClhN5u0/img.gif" />  --> <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljh0608)](https://solved.ac/ljh0608/) -->
 
 ```shell
-🌳 IT 벤처 창업 동아리 SOPT 34기 웹파트장 (2024.01 ~ )
+🌳 대학생 IT 연합 동아리 SOPT 34기 웹파트장 (2024.01 ~ )
 
-🪴 IT 벤처 창업 동아리 SOPT 33기 웹파트 (2023.09 ~ 2024.01)
+🪴 대학생 IT 연합 동아리 SOPT 33기 웹파트 (2023.09 ~ 2024.01)
 
-🍀 IT 벤처 창업 동아리 SOPT 32기 웹파트 (2023.03 ~ 2023.07)
+🍀 대학생 IT 연합 동아리 SOPT 32기 웹파트 (2023.03 ~ 2023.07)
 
 🌐 UMC(MakeUs Challenge) 웹파트 수료 (2023.09 ~ 2023.01)
 
