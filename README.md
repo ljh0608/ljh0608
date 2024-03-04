@@ -3,6 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=Jae%20Hoon%20Lee%20✨&fontSize=65)
 
   ### 👩‍💻 **About Me** 
+  문제해결을 위해 마주한 기술들이 어떤 고민의 산물인지 생각하며 학습하고 그것을 공유할 때 행복을 느끼는 프론트엔드 개발자 이재훈입니다.
+
   <a href="https://lapis-margin-2db.notion.site/bbb656b4cc3e4309aebafdea859dc451?pvs=4"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;
   <a href="https://github.com/ljh0608"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;
   <a href="https://anstrengung-jh.tistory.com"><img alt="Tistary" src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>&nbsp;
