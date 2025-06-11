@@ -23,6 +23,8 @@
  <!-- <img width="258" src="https://blog.kakaocdn.net/dn/cfe1G4/btry8h82ZYe/hSLWr3lKQucjkHEClhN5u0/img.gif" />  --> <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljh0608)](https://solved.ac/ljh0608/) -->
 
 ```shell
+📄 Splab Frontend Developer 인턴십 (2025.02 ~ 2025.05) 
+
 ✨ 카카오테크캠프 Frontend 실습코치 (2024.06 ~ 2024.08)
 
 🌳 대학생 IT 연합 동아리 SOPT 34기 웹파트장 (2024.01 ~ 2024.07)
