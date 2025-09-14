@@ -5,7 +5,7 @@
   ### 👩‍💻 **About Me** 
   문제해결을 위해 마주한 기술들이 어떤 고민의 산물인지 생각하며 학습하고 그것을 공유할 때 행복을 느끼는 프론트엔드 개발자 이재훈입니다.
 
-  <a href="https://lapis-margin-2db.notion.site/Lee-Jae-Hoon-21b13acb64e08032a67ddeab2a309f07?source=copy_link"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;
+<!--  <a href="https://lapis-margin-2db.notion.site/Lee-Jae-Hoon-21b13acb64e08032a67ddeab2a309f07?source=copy_link"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp; -->
   <a href="https://github.com/ljh0608"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;
   <a href="https://anstrengung-jh.tistory.com"><img alt="Tistary" src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>&nbsp;
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fljh0608%2Fhit-counter&count_bg=%23000000&title_bg=%23FF7E7E&icon=&icon_color=%238C8C8C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)&nbsp;
