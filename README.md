@@ -23,7 +23,9 @@
  <!-- <img width="258" src="https://blog.kakaocdn.net/dn/cfe1G4/btry8h82ZYe/hSLWr3lKQucjkHEClhN5u0/img.gif" />  --> <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljh0608)](https://solved.ac/ljh0608/) -->
 
 ```shell
-📄 Splab Frontend Developer 인턴십 (2025.02 ~ 2025.05) 
+💼 Linkareer Fronted Developer (2025.12 ~ )
+
+📄 Splab Frontend Developer 인턴십 (2025.02 ~ 2025.07) 
 
 ⏭️ IT 동아리 NEXTERS - LLM기반 타로챗 서비스 타로냥이 개발 (2025.01~ 2025.03)
 
